@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.img-gradient {
+  filter: brightness(0.4);
+  opacity: 0.98;
+}
